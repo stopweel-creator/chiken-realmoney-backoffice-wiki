@@ -1,0 +1,26 @@
+<svg width="980" height="560" viewBox="0 0 980 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="980" height="560" rx="24" fill="#0E1520"/>
+  <rect x="32" y="32" width="916" height="496" rx="18" fill="#141E2B" stroke="#294156"/>
+  <text x="56" y="72" fill="#FFFFFF" font-family="Arial" font-size="24" font-weight="700">Wheel of Fortune Configuration</text>
+  <rect x="56" y="100" width="110" height="140" rx="14" fill="#20344C"/>
+  <rect x="184" y="100" width="110" height="140" rx="14" fill="#20344C"/>
+  <rect x="312" y="100" width="110" height="140" rx="14" fill="#20344C"/>
+  <rect x="440" y="100" width="110" height="140" rx="14" fill="#20344C"/>
+  <rect x="568" y="100" width="110" height="140" rx="14" fill="#20344C"/>
+  <rect x="696" y="100" width="110" height="140" rx="14" fill="#20344C"/>
+  <rect x="824" y="100" width="100" height="140" rx="14" fill="#20344C"/>
+  <text x="76" y="136" fill="#D9EEFF" font-family="Arial" font-size="18" font-weight="700">Slot 1</text>
+  <text x="204" y="136" fill="#D9EEFF" font-family="Arial" font-size="18" font-weight="700">Slot 2</text>
+  <text x="332" y="136" fill="#D9EEFF" font-family="Arial" font-size="18" font-weight="700">Slot 3</text>
+  <text x="460" y="136" fill="#D9EEFF" font-family="Arial" font-size="18" font-weight="700">Slot 4</text>
+  <text x="588" y="136" fill="#D9EEFF" font-family="Arial" font-size="18" font-weight="700">Slot 5</text>
+  <text x="716" y="136" fill="#D9EEFF" font-family="Arial" font-size="18" font-weight="700">Slot 6</text>
+  <text x="844" y="136" fill="#D9EEFF" font-family="Arial" font-size="18" font-weight="700">Slot 7</text>
+  <rect x="56" y="276" width="868" height="120" rx="14" fill="#172230" stroke="#294156"/>
+  <text x="76" y="312" fill="#FFFFFF" font-family="Arial" font-size="22" font-weight="700">Audit Note and Save Action</text>
+  <rect x="76" y="332" width="650" height="34" rx="10" fill="#101923" stroke="#36526F"/>
+  <rect x="744" y="326" width="160" height="46" rx="12" fill="#2C5A3B"/>
+  <text x="778" y="355" fill="#E9FFF0" font-family="Arial" font-size="18" font-weight="700">Save</text>
+  <rect x="56" y="420" width="868" height="84" rx="14" fill="#172230" stroke="#294156"/>
+  <text x="76" y="456" fill="#FFFFFF" font-family="Arial" font-size="22" font-weight="700">Chance Summary Cards</text>
+</svg>

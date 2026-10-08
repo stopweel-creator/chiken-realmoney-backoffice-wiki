@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" fill="none">
+  <rect width="960" height="300" rx="24" fill="#121212"/>
+  <rect x="28" y="28" width="210" height="108" rx="16" fill="#1A1A1A" stroke="#303030"/>
+  <rect x="258" y="28" width="210" height="108" rx="16" fill="#1A1A1A" stroke="#303030"/>
+  <rect x="488" y="28" width="210" height="108" rx="16" fill="#1A1A1A" stroke="#303030"/>
+  <rect x="718" y="28" width="214" height="108" rx="16" fill="#1A1A1A" stroke="#303030"/>
+  <text x="56" y="64" fill="#AFC7E1" font-size="18" font-family="Arial">Ledger</text>
+  <text x="56" y="106" fill="#D7FFE0" font-size="34" font-family="Arial" font-weight="700">OK</text>
+  <text x="56" y="128" fill="#94A7BD" font-size="15" font-family="Arial">online</text>
+  <text x="286" y="64" fill="#AFC7E1" font-size="18" font-family="Arial">Wiki</text>
+  <text x="286" y="106" fill="#D7FFE0" font-size="34" font-family="Arial" font-weight="700">OK</text>
+  <text x="286" y="128" fill="#94A7BD" font-size="15" font-family="Arial">configured</text>
+  <text x="516" y="64" fill="#AFC7E1" font-size="18" font-family="Arial">Language</text>
+  <text x="516" y="106" fill="#FFFFFF" font-size="34" font-family="Arial" font-weight="700">UK</text>
+  <text x="516" y="128" fill="#94A7BD" font-size="15" font-family="Arial">Density: compact</text>
+  <text x="746" y="64" fill="#AFC7E1" font-size="18" font-family="Arial">Refresh</text>
+  <text x="746" y="106" fill="#FFFFFF" font-size="34" font-family="Arial" font-weight="700">15s</text>
+  <text x="746" y="128" fill="#94A7BD" font-size="15" font-family="Arial">Actor: backoffice</text>
+</svg>

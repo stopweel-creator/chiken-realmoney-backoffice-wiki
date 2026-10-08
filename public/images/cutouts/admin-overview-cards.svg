@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" fill="none">
+  <rect width="960" height="360" rx="24" fill="#121212"/>
+  <rect x="28" y="28" width="210" height="132" rx="16" fill="#1A1A1A" stroke="#303030"/>
+  <rect x="258" y="28" width="210" height="132" rx="16" fill="#1A1A1A" stroke="#303030"/>
+  <rect x="488" y="28" width="210" height="132" rx="16" fill="#1A1A1A" stroke="#303030"/>
+  <rect x="718" y="28" width="214" height="132" rx="16" fill="#1A1A1A" stroke="#303030"/>
+  <text x="54" y="66" fill="#AFC7E1" font-size="18" font-family="Arial">Users</text>
+  <text x="54" y="114" fill="#FFFFFF" font-size="44" font-family="Arial" font-weight="700">1 284</text>
+  <text x="54" y="144" fill="#94A7BD" font-size="16" font-family="Arial">Balance total: 94 200.50</text>
+  <text x="284" y="66" fill="#AFC7E1" font-size="18" font-family="Arial">Withdraw Queue</text>
+  <text x="284" y="114" fill="#FFFFFF" font-size="44" font-family="Arial" font-weight="700">36</text>
+  <text x="284" y="144" fill="#94A7BD" font-size="16" font-family="Arial">Amount total: 4 820.00</text>
+  <text x="514" y="66" fill="#AFC7E1" font-size="18" font-family="Arial">Active Rounds</text>
+  <text x="514" y="114" fill="#FFFFFF" font-size="44" font-family="Arial" font-weight="700">18</text>
+  <text x="514" y="144" fill="#94A7BD" font-size="16" font-family="Arial">Resolved rounds: 8 301</text>
+  <text x="744" y="66" fill="#AFC7E1" font-size="18" font-family="Arial">Audit Records</text>
+  <text x="744" y="114" fill="#FFFFFF" font-size="44" font-family="Arial" font-weight="700">472</text>
+  <text x="744" y="144" fill="#94A7BD" font-size="16" font-family="Arial">Expired rounds: 53</text>
+</svg>

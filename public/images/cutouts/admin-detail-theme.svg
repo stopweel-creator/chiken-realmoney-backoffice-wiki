@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="280" viewBox="0 0 1080 280" fill="none">
+  <rect width="1080" height="280" rx="24" fill="#0C111A"/>
+  <text x="40" y="54" fill="#E9F1FF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Detail Page Theme Controls</text>
+  <rect x="36" y="82" width="1008" height="160" rx="20" fill="#121A28" stroke="#2B3950"/>
+  <text x="64" y="118" fill="#D8E7FF" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Back to Admin</text>
+  <rect x="232" y="98" width="214" height="44" rx="14" fill="#182335" stroke="#344A67"/>
+  <text x="252" y="126" fill="#AFC4E6" font-family="Segoe UI, Arial, sans-serif" font-size="14">Theme</text>
+  <rect x="300" y="107" width="126" height="26" rx="13" fill="#0E1624" stroke="#43658E"/>
+  <text x="324" y="124" fill="#D8E9FF" font-family="Segoe UI, Arial, sans-serif" font-size="13">Midnight</text>
+  <rect x="64" y="166" width="294" height="40" rx="14" fill="rgba(105,209,255,0.12)" stroke="rgba(105,209,255,0.24)"/>
+  <text x="84" y="191" fill="#D5ECFF" font-family="Segoe UI, Arial, sans-serif" font-size="14">Status and detail summaries remain readable under every theme.</text>
+  <rect x="390" y="166" width="294" height="40" rx="14" fill="rgba(55,223,138,0.12)" stroke="rgba(55,223,138,0.24)"/>
+  <text x="410" y="191" fill="#E7FFF2" font-family="Segoe UI, Arial, sans-serif" font-size="14">Theme selector is available on user, round, withdraw, and action pages.</text>
+  <rect x="716" y="166" width="294" height="40" rx="14" fill="rgba(255,102,121,0.12)" stroke="rgba(255,102,121,0.24)"/>
+  <text x="736" y="191" fill="#FFE9ED" font-family="Segoe UI, Arial, sans-serif" font-size="14">Selected theme follows redirects after admin actions.</text>
+</svg>

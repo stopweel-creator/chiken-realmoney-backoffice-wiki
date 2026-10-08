@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320" fill="none">
+  <rect width="960" height="320" rx="24" fill="#121212"/>
+  <rect x="28" y="28" width="286" height="124" rx="16" fill="#1A1A1A" stroke="#303030"/>
+  <rect x="337" y="28" width="286" height="124" rx="16" fill="#1A1A1A" stroke="#303030"/>
+  <rect x="646" y="28" width="286" height="124" rx="16" fill="#1A1A1A" stroke="#303030"/>
+  <text x="54" y="62" fill="#AFC7E1" font-size="18" font-family="Arial">Latest Withdraw</text>
+  <text x="54" y="100" fill="#FFFFFF" font-size="24" font-family="Arial" font-weight="700">wd_2026_001 / 120.00</text>
+  <text x="54" y="128" fill="#94A7BD" font-size="15" font-family="Arial">2026-03-08 14:10</text>
+  <text x="363" y="62" fill="#AFC7E1" font-size="18" font-family="Arial">Latest Admin Action</text>
+  <text x="363" y="100" fill="#FFFFFF" font-size="24" font-family="Arial" font-weight="700">admin_set_balance / finance</text>
+  <text x="363" y="128" fill="#94A7BD" font-size="15" font-family="Arial">2026-03-08 13:58</text>
+  <text x="672" y="62" fill="#AFC7E1" font-size="18" font-family="Arial">Latest Round Update</text>
+  <text x="672" y="100" fill="#FFFFFF" font-size="24" font-family="Arial" font-weight="700">rnd_2026_004 / finished</text>
+  <text x="672" y="128" fill="#94A7BD" font-size="15" font-family="Arial">2026-03-08 13:54</text>
+</svg>

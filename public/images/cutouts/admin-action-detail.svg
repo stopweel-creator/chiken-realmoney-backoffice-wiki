@@ -1,0 +1,7 @@
+<svg width="840" height="420" viewBox="0 0 840 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="840" height="420" rx="24" fill="#0E1520"/>
+  <rect x="32" y="32" width="776" height="356" rx="18" fill="#141E2B" stroke="#294156"/>
+  <text x="56" y="74" fill="#FFFFFF" font-family="Arial" font-size="24" font-weight="700">Admin Action Detail</text>
+  <rect x="56" y="102" width="728" height="56" rx="12" fill="#1C3248"/>
+  <rect x="56" y="182" width="728" height="172" rx="14" fill="#172230" stroke="#294156"/>
+</svg>
